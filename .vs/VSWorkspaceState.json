@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\cities",
+    "\\src\\app\\models",
+    "\\src\\app\\services",
+    "\\src\\app\\services\\cities"
+  ],
+  "SelectedNode": "\\src\\app\\services\\cities\\cities-endpoint.service.ts",
+  "PreviewInSolutionExplorer": false
+}
